@@ -1,0 +1,1 @@
+export const firebaseConfig={apiKey:"AIzaSyCKgvrRyG_hpGHtFiTw-wqtmk4vFW-21sg",authDomain:"tvcalendar-b2b59.firebaseapp.com",projectId:"tvcalendar-b2b59",storageBucket:"tvcalendar-b2b59.firebasestorage.app",messagingSenderId:"1034981088521",appId:"1:1034981088521:web:75c7be89e2d2ab54ad47d8",measurementId:"G-3JVHYYGMVM"};
